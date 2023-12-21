@@ -1,0 +1,7 @@
+
+
+ad
+
+public class AbstractDemo {
+
+}

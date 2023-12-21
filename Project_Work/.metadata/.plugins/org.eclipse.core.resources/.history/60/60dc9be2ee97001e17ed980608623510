@@ -1,0 +1,18 @@
+package com.prcatice;
+
+public class firstTenNaturesNumbers {
+
+	public  void main(String[] args) {
+		//System.out.println("nfjyf");
+
+		int a = 0;
+
+		while (a > 10) {
+			a++;
+			System.out.println(a);
+
+		}
+
+	}
+
+}

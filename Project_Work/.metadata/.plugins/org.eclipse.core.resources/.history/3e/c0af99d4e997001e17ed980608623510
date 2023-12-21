@@ -1,0 +1,23 @@
+package com.prcatice;
+
+import java.util.Scanner;
+
+public class PracticeFirstPrograme {
+
+	public static void main(String[] args) {
+		Scanner scanner  = new Scanner(System.in);
+		
+		System.out.println(" Enter value NO :  1 ");
+		int numOne = scanner.nextInt();
+
+		System.out.println(" Enter value NO :  2 ");
+		int numTwo = scanner.nextInt();
+
+		System.out.println(" Enter value NO :  3 ");
+		int numThree = scanner.nextInt();
+		
+		scanner.close();
+		
+	}
+
+}

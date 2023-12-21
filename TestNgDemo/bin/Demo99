@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <groups>
+      <run>
+          <include name ="Get_url"/>
+      </run>
+    </groups>
+     <groups>
+      <run>
+          <include name ="Enter_Credemcial"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="Testngpak.Demo99GuruGroup"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
